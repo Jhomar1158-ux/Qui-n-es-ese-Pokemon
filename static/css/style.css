@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    background: red;
+}
+
+#pokemon-wrp{
+    width: 90vw;
+    background: purple;
+    display: inline-block;
+}
+#pokemon-data{
+    position: fixed;
+    right: .5vw;
+    top: 5vh;
+    width:9vw;
+    height: 30vh;
+    background: orange;
+}
+
+#pokemon-data{
+    display: none;
+}
